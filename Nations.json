@@ -1,0 +1,39 @@
+[
+        {
+                "name": "Sumeria",
+                "leaderName": "Gilgamesh",
+                "adjective": ["Sumerian"],
+                "startBias": ["Flood plains"],
+                "preferredVictoryType": "Scientific",
+
+                "startIntroPart1": "Neverending glory be upon you, king Gilgamesh, most legendary and mystical ruler of Sumeria, whose hands built the city-walls of Uruk and saw the sage Utnapishtim! You are the leader of the Sumer, the first and the only civilization that was truely original and innovative. Sumer's history stretches back into time when the Gods were walking alongside mere mortals. The stories of your life amaze the world to this day, and after your death, the gods themselves welcomed you as one of their kind. You nation had a magnificent story as well: as the cradle of civilization, it made a great progress in history, giving the world beautiful things such as literature, architecture and music. Sumer's contribution to humankind are uncountable, and worthy of legends.",
+                "startIntroPart2": "Divine King, who, with strenght and wishdom, built the glory of ancient Sumer and became the very first hero of the history - your people seek for your guidance! The wealth of Euphrates, Tigris and the whole Fertile Crescent cannot be wasted in the hands of barbarians. Will you descend from the heavens to astonish the world with your incredible deeds once again? Can you once more bring glory and light to humankind? Can you build a civilization that will stand the test of time?",
+
+                "declaringWar": "That's enough, prepare to be smashed into the dust!",
+                "attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
+                "defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long you will last. Even demigods aren't invicible.",
+                "introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
+
+                "neutralHello": "Be blessed, friend.",
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+                "neutralNo": ["No way.","Never!"],
+                "neutralYes": ["Very good.","Of course, yes.","I gladly accept."],
+                "hateHello": "Go on!",
+                "hateLetsHearIt": "Just speak, don't waste my time!",
+                "hateNo": ["Are you joking?","Are you sure?"],
+                "hateYes": ["I can accept.","Fine.","Let it be."],
+
+                "afterPeace": "Maybe we should celebrate the end of war?",
+                "tradeRequest": "I present you this trade offer.",
+
+                "outerColor": [43, 35, 82],
+                "innerColor": [189, 145, 158],
+                "uniqueName": "Cradle of Civilization",
+                "uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
+                "uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
+                "cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
+                        "Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
+                        "Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
+                        "Aratta","Kutu","Der"]
+        }
+]
