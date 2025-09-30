@@ -8,7 +8,7 @@
                 "strength": 100,
                 "cost": 1,
                 "hurryCostModifier": 1,
-                "obsoleteTech": "Iron Working",
+                "obsoleteTech": "Agriculture",
                 "upgradesTo": "Swordsman",
                 "uniques": ["Invisible to non-adjacent units","Earn [100]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Spearman] through ruins-like effects"],
                 "attackSound": "nonmetalhit"
