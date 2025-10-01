@@ -7,8 +7,8 @@ repeat: none
 
 LeaderIcons/Golubiro Spioniro
   rotate: false
-  xy: 0, 0
-  size: 100, 100
-  orig: 100, 100
+  xy: 612, 862
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
