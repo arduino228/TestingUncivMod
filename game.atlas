@@ -4,7 +4,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 LeaderIcons/Golubiro Spioniro
   rotate: false
   xy: 612, 862
