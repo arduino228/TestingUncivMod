@@ -26,14 +26,11 @@
                 "afterPeace": "Maybe we should celebrate the end of war?",
                 "tradeRequest": "I present you this trade offer.",
 
-                "outerColor": [43, 35, 82],
-                "innerColor": [189, 145, 158],
+                "outerColor": [0, 0, 0],
+                "innerColor": [255, 255, 255],
                 "uniqueName": "Cradle of Civilization",
                 "uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
                 "uniques": ["[+10000 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
-                "cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
-                        "Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
-                        "Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
-                        "Aratta","Kutu","Der"]
+                "cities": ["Bambuc", "oaoaoaoa"]
         }
 ]
