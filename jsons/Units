@@ -9,8 +9,6 @@
                 "strength": 80,
                 "cost": 395,
                 "requiredTech": "Combined Arms",
-                "requiredResource": "Oil",
-                "upgradesTo": "Modern Armor",
-                "attackSound": "tankshot"
+                "attackSound": ""
         }
 ]
