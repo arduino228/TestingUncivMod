@@ -4,7 +4,7 @@
                 "unitType": "Sword",
                 "uniqueTo": "Brainrotmemes",
                 "requiredTech": "Animal Husbandry",
-                
+                "replaces": "Archer"
                 "movement": 20,
                 "strength": 100,
                 "cost": 1,
