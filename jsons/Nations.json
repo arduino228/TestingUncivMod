@@ -31,7 +31,7 @@
                 "innerColor": [255, 255, 255],
                 "uniqueName": "Cradle of Civilization",
                 "uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
-                "uniques": ["[+10000 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
+                "uniques": ["[+10000 Science] [in capital]"],
                 "cities": ["Bambuc", "oaoaoaoa"]
         }
 ]
