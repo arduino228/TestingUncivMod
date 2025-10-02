@@ -3,6 +3,8 @@
                 "name": "Glorbo Frutodrillo",
                 "unitType": "Sword",
                 "uniqueTo": "Brainrotmemes",
+                "requiredTech": "Animal Husbandry",
+                
                 "movement": 20,
                 "strength": 100,
                 "cost": 1,
