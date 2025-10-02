@@ -1,35 +1,14 @@
 [
         {
-                "name": "Glorbo Frutodrillo",
+                "name": "Frutodrillo",
                 "unitType": "Sword",
                 "uniqueTo": "Brainrotmemes",
-                "replaces": "warior",
+                "replaces": "Warior",
                 "movement": 2,
                 "strength": 10,
                 "cost": 20,
                 "hurryCostModifier": 10,
                 "uniques": ["Invisible to non-adjacent units","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
                 "attackSound": "nonmetalhit"
-        },
-        {
-                "name": "'Flying Tigers'",
-                "unitType": "Fighter",
-                "replaces": "Fighter",
-                "uniqueTo": "Brainrotmemes",
-                "movement": 1,
-                "strength": 45,
-                "rangedStrength": 45,
-                "range": 8,
-                "interceptRange": 8,
-                "cost": 395,
-                "requiredTech": "Radar",
-                "requiredResource": "Oil",
-                "upgradesTo": "Jet Fighter",
-                "uniques": ["[100]% chance to intercept air attacks", 
-                "[+150]% Strength <vs [Bomber] units>", 
-                "[+150]% Strength <vs [Helicopter] units>",
-                "[+33]% Strength <vs [Land] units>"],
-                "promotions": ["Operational Range"],
-                "attackSound": "machinegun"
         }
 ]
