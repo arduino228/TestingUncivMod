@@ -1,4 +1,4 @@
-
+[
         {
                 "name": "Frutodrillo",
                 "unitType": "Armored",
@@ -15,3 +15,4 @@
                 "uniques": ["Can move after attacking","No defensive terrain bonus"],
                 "attackSound": "tankshot"
         }
+]
