@@ -1,15 +1,18 @@
 [
         {
                 "name": "Frutodrillo",
-                "unitType": "Sword",
+                "unitType": "Armored",
                 "uniqueTo": "Brainrotmemes",
-                "replaces": "Warior",
-                "movement": 2,
-                "strength": 10,
-                "cost": 20,
-                "hurryCostModifier": 10,
-                "uniques": ["Invisible to non-adjacent units","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
-                "attackSound": "nonmetalhit",
-"replacementTextForUniques": "Glorbo Frutodrillo"
+                "replaces": "Panzer"
+                "replaces": "Tank",
+                "movement": 4,
+                "strength": 80,
+                "cost": 395,
+                "requiredTech": "Combined Arms",
+                "requiredResource": "Oil",
+                "upgradesTo": "Modern Armor",
+                "promotions": ["Shock I","Blitz"], 
+                "uniques": ["Can move after attacking","No defensive terrain bonus"],
+                "attackSound": "tankshot"
         }
 ]
