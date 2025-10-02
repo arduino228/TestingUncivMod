@@ -11,14 +11,14 @@ LeaderIcons/Golubiro Spioniro
   orig: 250, 250
   offset: 0, 0
   index: -1
-UnitIcons/
+UnitIcons/Glorbo Frutodrillo
   rotate: false
   xy: 250, 0
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/
+TileSets/FantasyHex/Units/Glorbo Frutodrillo
   rotate: false
   xy: 450, 0
   size: 32, 32
