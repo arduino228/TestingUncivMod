@@ -30,7 +30,7 @@
                 "outerColor": [0, 0, 0],
                 "innerColor": [255, 255, 255],
                 "uniqueName": "Cradle of Civilization",
-                "uniqueText":+1 [Science] in Capital",
+                "uniqueText":"+1 [Science] in Capital",
                 "uniques": ["[+10000 Science] [in capital]"],
                 "cities": ["Bambuc", "oaoaoaoa"]
         }
