@@ -11,7 +11,7 @@ LeaderIcons/Golubiro Spioniro
   orig: 250, 250
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Frutodrillo
+TileSets/AbsoluteUnits/Units/Frutodrillo
   rotate: false
   xy: 450, 0
   size: 32, 32
