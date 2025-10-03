@@ -4,13 +4,11 @@
                 "unitType": "Sword",
                 "uniqueTo": "Brainrotmemes",
                 "replaces": "Warrior",
-                "movement": 2,
-                "strength": 8,
+                "movement": 20,
+                "strength": 100,
                 "cost": 40,
-                "hurryCostModifier": 20,
-                "obsoleteTech": "Iron Working",
-                "upgradesTo": "Swordsman",
-                "uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Spearman] through ruins-like effects"],
+                "hurryCostModifier": 2,
+                "uniques": ["Invisible to non-adjacent units","Earn [2500]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Spearman] through ruins-like effects"],
                 "attackSound": "nonmetalhit"
         },
 ]
